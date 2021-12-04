@@ -5,7 +5,7 @@
 </em></p>
 
 [![GitHub Rodrigo](https://img.shields.io/github/followers/ukn70?label=follow&style=social)](https://github.com/uKn70)
-[![Gmail Rodrigo](https://img.shields.io/badge/-rodrigopedroza11@gmail.com-white?logo=Gmail&logoColor=cf0000&style=social&link=mailto:rodrigopedroza11@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Gmail Rodrigo](https://img.shields.io/badge/-rodrigopedroza11@gmail.com-white?logo=Gmail&logoColor=cf0000&style=social&link=mailto:rodrigopedroza11@gmail.com)](mailto:rodrigopedroza11@gmail.com)
 
 
 ### <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30"> About me...  
