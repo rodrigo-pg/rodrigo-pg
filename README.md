@@ -10,17 +10,15 @@
 ```javascript
 const rodrigoRodrigues = {
   code: [Javascript, Typescript, HTML, CSS, Python, Solidity, Rust, C#],
-  tools: [React, Node, Styled-Components, Jest, Docker],
   technologies: {
+    frontEnd: ["React", "Styled-Components"],
     backEnd: {
-      js: ["Node", "Fastify", "Express", "SuiteScript"],
+      js: ["Node", "Express", "Jest"],
     },
-    mobileApp: {
-     native: ["Android Development", "IOS Development"]
-    },
-    devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-    databases: ["mongo", "MySql", "sqlite"],
-    misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    mobile: ["React-Native"],
+    devOps: ["Docker🐳"],
+    databases: ["Mongo", "Typeorm"],
+    misc: ["Firebase", "Socket.IO"]
   },
   architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
 }
