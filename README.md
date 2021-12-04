@@ -30,8 +30,10 @@ const rodrigoRodrigues = {
   
 ```javascript
 while(noSucess){
+
   tryAgain();
   
   if(Dead) break;
+  
 }
 ```
