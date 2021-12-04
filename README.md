@@ -31,7 +31,7 @@ const rodrigoRodrigues = {
 ```javascript
 while(noSucess){
 
-  tryAgain();
+  codeAgain();
   
   if(Dead) break;
   
