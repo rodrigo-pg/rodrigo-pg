@@ -26,3 +26,12 @@ const rodrigoRodrigues = {
   architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
 }
 ```
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" align="center"> Finally...  
+  
+```javascript
+while(noSucess){
+  tryAgain();
+  
+  if(Dead) break;
+}
+```
