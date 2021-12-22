@@ -11,7 +11,7 @@
   
 ```javascript
 const rodrigoRodrigues = {
-  code: [Javascript, Typescript, HTML, CSS, Python, Solidity, Rust, C#],
+  code: [Javascript, Typescript, HTML, CSS, Python, Solidity],
   technologies: {
     frontEnd: ["React", "Styled-Components"],
     backEnd: {
