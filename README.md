@@ -11,18 +11,18 @@
   
 ```javascript
 const rodrigoRodrigues = {
-  code: [Javascript, Typescript, HTML, CSS, Python, Solidity],
+  code: [Javascript, Typescript, HTML, CSS, Python, Solidity, Rust],
   technologies: {
-    frontEnd: ["React", "Styled-Components"],
+    frontEnd: ["React", "Styled-Components", "Next"],
     backEnd: {
-      js: ["Node", "Express", "Jest", "web3", "hardhat", "truffle"],
+      js: ["Node", "Express", "Jest", "web3", "hardhat", "truffle", "NestJS"],
     },
     mobile: ["React-Native"],
     devOps: ["Docker🐳"],
-    databases: ["Mongo", "Typeorm"],
+    databases: ["Mongo", "Typeorm", "Prisma"],
     misc: ["Firebase", "Socket.IO"]
   },
-  architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+  architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "DApps"],
 }
 ```
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" align="center"> Finally...  
