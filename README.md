@@ -11,12 +11,13 @@
   
 ```javascript
 const rodrigoRodrigues = {
-  code: [Javascript, Typescript, HTML, CSS, Python, Solidity, Rust],
+  code: [Javascript, Typescript, HTML, CSS, Python, Solidity, Java],
   technologies: {
-    frontEnd: ["React", "Styled-Components", "Next"],
+    frontEnd: ["React"],
     backEnd: {
-      js: ["Node", "Express", "Jest", "web3", "hardhat", "truffle", "NestJS"],
+      js: ["Node", "web3"],
     },
+    blockchain: ["Ethereum", "Solana", "Avalanche", "Polygon"]
     mobile: ["React-Native"],
     devOps: ["Docker🐳"],
     databases: ["Mongo", "Typeorm", "Prisma"],
