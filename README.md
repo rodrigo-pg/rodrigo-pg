@@ -17,7 +17,7 @@ const rodrigoRodrigues = {
     backEnd: {
       js: ["Node", "web3"],
     },
-    blockchain: ["Ethereum", "Solana", "Avalanche", "Polygon"]
+    blockchain: ["Ethereum", "Solana", "Avalanche", "Polygon"],
     mobile: ["React-Native"],
     devOps: ["Docker🐳"],
     databases: ["Mongo", "Typeorm", "Prisma"],
