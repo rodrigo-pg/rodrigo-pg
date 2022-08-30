@@ -23,10 +23,10 @@ const rodrigoRodrigues = {
     misc: ["Firebase", "Socket.IO"]
   },
   architecture: [
+    "DApps",
+    "Clean Architecture",
     "Serverless Architecture", 
     "Single page applications", 
-    "DApps",
-    "Clean Architecture"
   ]
 }
 ```
