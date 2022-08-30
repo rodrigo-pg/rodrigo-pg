@@ -23,7 +23,12 @@ const rodrigoRodrigues = {
     databases: ["Mongo", "Typeorm", "Prisma"],
     misc: ["Firebase", "Socket.IO"]
   },
-  architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "DApps"],
+  architecture: [
+    "Serverless Architecture", 
+    "Single page applications", 
+    "DApps",
+    "Clean Architecture"
+  ]
 }
 ```
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" align="center"> Finally...  
