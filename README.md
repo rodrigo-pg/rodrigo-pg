@@ -3,7 +3,7 @@
 </br>Software & Blockchain Engineer<img src="https://media.giphy.com/media/2YNPT2czM8qFg6nJqq/giphy.gif" width="45" align="center"> 
 </em></p>
 
-[![GitHub Rodrigo](https://img.shields.io/github/followers/ukn70?label=follow&style=social)](https://github.com/uKn70)
+[![GitHub Rodrigo](https://img.shields.io/github/followers/rodrigo-pg?label=follow&style=social)](https://github.com/rodrigo-pg)
 [![Gmail Rodrigo](https://img.shields.io/badge/-rodrigopedroza11@gmail.com-white?logo=Gmail&logoColor=cf0000&style=social&link=mailto:rodrigopedroza11@gmail.com)](mailto:rodrigopedroza11@gmail.com)
 
 
