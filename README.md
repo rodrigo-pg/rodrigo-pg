@@ -2,10 +2,6 @@
 </br>Software & Blockchain Developer 
 </em></p>
 
-[![GitHub Rodrigo](https://img.shields.io/github/followers/rodrigo-pg?label=follow&style=social)](https://github.com/rodrigo-pg)
-[![Gmail Rodrigo](https://img.shields.io/badge/-rodrigopedroza11@gmail.com-white?logo=Gmail&logoColor=cf0000&style=social&link=mailto:rodrigopedroza11@gmail.com)](mailto:rodrigopedroza11@gmail.com)
-
-
 ### <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30"> About me...  
   
 ```javascript
